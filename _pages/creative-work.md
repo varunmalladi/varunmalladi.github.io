@@ -4,4 +4,4 @@ title: "creative work"
 ---
 
 ## poetry
-- [the ice queen](_creative-work/ice-queen.md)
+- [the ice queen](http://varunmalladi.github.io/creative-work/ice-queen)
