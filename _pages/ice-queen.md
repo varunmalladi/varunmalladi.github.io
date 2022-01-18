@@ -1,3 +1,8 @@
+---
+permalink: /creative-work/ice-queen/
+title: "the ice queen"
+---
+
 ## 1
 "Leave."
 
