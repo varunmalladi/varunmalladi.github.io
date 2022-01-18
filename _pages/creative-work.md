@@ -4,4 +4,4 @@ title: "creative work"
 ---
 
 ## poetry
-- [the ice queen](../_creative-work/ice-queen.md)
+- [the ice queen](_creative-work/ice-queen.md)
