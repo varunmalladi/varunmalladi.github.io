@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-(click [here](/files/resume.pdf) for formal resume)
-
 Education
 ======
 * Dartmouth College, Mathematics major / Computer Science minor, 2019-2023
