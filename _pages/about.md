@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ponderer of mathematics"
+title: "ponderer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Varun (Rooney) and I'm currently a junior at Dartmouth College studying mathematics. If you'd asked me six months ago about the specific areas of mathematics I wish to pursue, I would've said infinity-categories or stable homotopy theory. Now I'm not so sure— I've become highly interested in aspects of analysis such as linear PDE's, differential operators, and D-modules. My field of view is broadening...
+Hi! My name is Varun (Runi) and I'm currently a senior at Dartmouth College studying mathematics. Right now I'm interested in functional analysis, particularly operator and C*-algebras. I'm hoping to eventually get into noncommutative geometry. Check out the [Math tab]() above for more.
 
-I have a [Youtube channel](https://www.youtube.com/channel/UCvYCMicLA7TZNfYhOaSCOsw) that is very important to me. Teaching is something I find really fulfilling. Check it out!
+Aside from mathematics, I enjoy developing software, particularly low-level programs. Compilers and graphics are two areas I'm interested in at the moment. Check out the [Programming tab]() above to see what I've been working on.
 
-Aside from mathematics, I enjoy developing software, particularly low-level programs. I'm currently working on writing a Rust compiler based on `rustc` (the official Rust compiler). I'm documenting the journey [here](https://varunmalladi.github.io/rustconomicon/), and the actual code lives [here](https://github.com/treemcgee42/rc) (check out one of the branches if it seems a little sparse on `main`).
-
-And aside from even that, I try writing every now and then.
+And aside from even that, I try draw and write.
