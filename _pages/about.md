@@ -12,4 +12,4 @@ Hi! My name is Varun (Runi) and I'm currently a senior at Dartmouth College stud
 
 Aside from mathematics, I enjoy developing software, particularly low-level programs. Compilers and graphics are two areas I'm interested in at the moment. Check out the [Programming tab]() above to see what I've been working on.
 
-And aside from even that, I try draw and write.
+And aside from even that, I draw and write.
