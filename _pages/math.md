@@ -9,7 +9,7 @@ author_profile: true
 
 Notes
 ======
-One of the passes I do when studying math is type up notes. It was my intention for these to 
+One of the passes I do when studying math is typing up notes. It was my intention for these to 
 be highly self-referential and something I could add to over time. 
 * Banach spaces (16 pages) ([pdf](/files/banach_spaces_notes.pdf))
 * C*-algebras (23 pages) ([pdf](/files/cstar_algebras_notes.pdf))
