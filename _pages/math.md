@@ -19,7 +19,7 @@ be highly self-referential and something I could add to over time.
 Papers
 ======
 * _Bounded Adjointable Operators on Dense Subspaces of Separable Hilbert Spaces_, Undergraduate Senior Thesis, ongoing ([pdf](/files/senior_thesis.pdf))
-* _(co)Ends and Day Convolution_, Dartmouth Undergraduate Journal of Science, Spring 2021 ([odf](/files/dujs_dayconv.pdf))
+* _(co)Ends and Day Convolution_, Dartmouth Undergraduate Journal of Science, Spring 2021 ([pdf](/files/dujs_dayconv.pdf))
   
 Other
 ======
