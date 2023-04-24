@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "math"
+title: "Math"
 permalink: /math/
 author_profile: true
 ---
 
 {% include base_path %}
+
+_it's slow motion when I dance_
 
 Notes
 ======
