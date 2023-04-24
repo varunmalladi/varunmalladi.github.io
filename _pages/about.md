@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "ponderer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
