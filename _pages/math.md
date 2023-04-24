@@ -6,8 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-_it's slow motion when I dance_
-
 Notes
 ======
 One of the passes I do when studying math is typing up notes. It was my intention for these to 
