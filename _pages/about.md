@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 # Hi!
 
 My name is Varun (Runi) and I'm currently a senior at Dartmouth College studying mathematics and computer science. Right now I'm interested in functional analysis, particularly operator and C*-algebras. I'm hoping to eventually get into noncommutative geometry. Check out the [Math tab](/math) above for more.
