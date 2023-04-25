@@ -1,10 +1,7 @@
 ---
-permalink: /programming
+permalink: /programming/
 excerpt: "Programming"
 author_profile: true
-redirect_from: 
-  - /programming/
-  - /programming.html
 ---
 
 ## DARTS Ray Tracing Engine
