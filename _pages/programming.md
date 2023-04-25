@@ -13,8 +13,10 @@ My extension to the Dartmouth Academic Ray Tracing Skeleton. This project implem
 Monte Carlo integration, and multiple importance sampling. For the final rendering competition my partner and I received special 
 mention for the following render:
 
-<img src="images/darts_fp.jpg"  width="50%" height="50%">
-
+<div align=center>
+  <img src="images/darts_fp.jpg"  width="50%" height="50%">
+</div>
+  
 There are two major features on display here. First, the skin is rendered using volumetric scattering techniques. Second, the glowing 
 facial material is fluorescent; the primary light source in the scene is actually the dark hand. It is emitting light outside the 
 visible spectrum, which the fluorescent materials picks up and re-emits within the visible spectrum.
