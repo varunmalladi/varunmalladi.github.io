@@ -16,7 +16,8 @@ mention for the following render:
 <div align=center>
   <img src="../images/darts_fp.jpg" alt=""  width="50%" height="50%">
 </div>
-  
+
+
 There are two major features on display here. First, the skin is rendered using volumetric scattering techniques. Second, the glowing 
 facial material is fluorescent; the primary light source in the scene is actually the dark hand. It is emitting light outside the 
 visible spectrum, which the fluorescent materials picks up and re-emits within the visible spectrum.
@@ -32,6 +33,7 @@ easily invoked.
 <div align=center>
   <img src="../images/ekki.jpg" alt=""  width="50%" height="50%">
 </div>
+
 
 The project is still in its early stages. I'm currently working on the infrastructure to load C dynamic libraries at runtime, which is
 how I imagine a computationally expensive program would be invoked through the frontend.
