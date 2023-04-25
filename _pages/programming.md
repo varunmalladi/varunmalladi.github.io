@@ -14,7 +14,7 @@ Monte Carlo integration, and multiple importance sampling. For the final renderi
 mention for the following render:
 
 <div align=center>
-  <img src="images/darts_fp.jpg"  width="50%" height="50%">
+  <img src="../images/darts_fp.jpg"  width="50%" height="50%">
 </div>
   
 There are two major features on display here. First, the skin is rendered using volumetric scattering techniques. Second, the glowing 
