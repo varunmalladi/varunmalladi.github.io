@@ -2,12 +2,12 @@
 main:
   - title: "Math"
     url: /math/  
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Math Notes"
-    url: /quartz/
+        
+  - title: "Programming"
+    url: /programming/
     
   - title: "Creative Work"
     url: /creative-work/
+    
+  - title: "CV"
+    url: /cv/
