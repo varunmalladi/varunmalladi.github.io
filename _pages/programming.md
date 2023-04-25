@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-## DARTS Ray Tracing Engine
+# DARTS Ray Tracing Engine
 _C++_
 
 My extension to the Dartmouth Academic Ray Tracing Skeleton. This project implements features such as parametric surfaces and meshes, 
@@ -22,7 +22,7 @@ There are two major features on display here. First, the skin is rendered using 
 facial material is fluorescent; the primary light source in the scene is actually the dark hand. It is emitting light outside the 
 visible spectrum, which the fluorescent materials picks up and re-emits within the visible spectrum.
 
-## ekki Graphics Frontend
+# ekki Graphics Frontend
 _Rust + wgpu_
 
 I realized while working on my ray tracer that a lot of boilerplate and debugging was spent on parsing scenes and displaying results. 
