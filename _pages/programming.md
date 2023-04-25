@@ -14,7 +14,7 @@ My extension to the Dartmouth Academic Ray Tracing Skeleton. This project implem
 Monte Carlo integration, and multiple importance sampling. For the final rendering competition my partner and I received special 
 mention for the following render:
 
-![](images/darts_fp.jpeg)
+![](images/darts_fp.jpg)
 
 There are two major features on display here. First, the skin is rendered using volumetric scattering techniques. Second, the glowing 
 facial material is fluorescent; the primary light source in the scene is actually the dark hand. It is emitting light outside the 
@@ -28,7 +28,7 @@ Even when this worked it was difficult to edit the scene files, considering they
 provide a common frontend that programs like ray tracers can use to visualize their input and output, and through which they can be
 easily invoked.
 
-![](images/ekki.jpeg)
+![](images/ekki.jpg)
 
 The project is still in its early stages. I'm currently working on the infrastructure to load C dynamic libraries at runtime, which is
 how I imagine a computationally expensive program would be invoked through the frontend.
