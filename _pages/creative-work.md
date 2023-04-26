@@ -11,7 +11,9 @@ I took 3D modelling (CS22) and 3D Animation (CS24) at Dartmouth. Here are a few 
 
 I modelled and rigged a spaceman, and animated the following short video with it:
 
-<iframe width="420" height="315" src="https://youtu.be/TfeUhWUZmMM" frameborder="0" allowfullscreen></iframe>
+<div align=center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TfeUhWUZmMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Abstract
 
@@ -44,7 +46,10 @@ also think I could have played more with the shadows and color, to make parts of
 For our final project in animation class we could pick a model and create a very short movie with it, something
 that communicated a change in emotion.
 
-<iframe width="420" height="315" src="https://youtu.be/wuvUe5Nw_Z8" frameborder="0" allowfullscreen></iframe>
+<div align=center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wuvUe5Nw_Z8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<br>
 
 One of my biggest influences in animation has to be Tom and Jerry, and I tried to draw on the way Tom would 
 sneak around and jump off screen.
