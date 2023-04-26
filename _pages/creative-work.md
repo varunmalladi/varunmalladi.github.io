@@ -1,5 +1,7 @@
 ---
 permalink: /creative-work/
+name: "Creative work"
+title: null
 ---
 
 # Dartmouth digital arts
