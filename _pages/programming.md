@@ -40,7 +40,7 @@ easily invoked.
 The project is still in its early stages. I'm currently working on the infrastructure to load C dynamic libraries at runtime, which is
 how I imagine a computationally expensive program would be invoked through the frontend.
 
-(github)[/404]
+[GitHub](https://github.com/treemcgee42/ekki)
 
 # Mini C compiler
 _C++ + Flex/Bison + LLVM_
