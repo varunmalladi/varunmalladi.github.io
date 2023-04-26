@@ -4,6 +4,8 @@ name: "Creative work"
 title: null
 ---
 
+{% include base_path %}
+
 # Dartmouth digital arts
 _Maya_
 
