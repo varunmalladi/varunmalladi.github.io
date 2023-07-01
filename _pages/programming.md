@@ -6,6 +6,20 @@ author_profile: true
 
 {% include base_path %}
 
+# Bilateral Grids via Compute Shaders
+_Swift + Metal Shading Langauge_
+
+I implemented the bilateral grid data structure utilizing compute shaders, which were not available at the time of their conception. 
+
+<div align=center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QYdRgKXxz-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+I applied the bilateral grid to a couple applications, such as bilateral filtering.
+
+[GitHub](https://github.com/treemcgee42/bilateral-grid)
+[Paper](/files/cs73_final.pdf)
+
 # DARTS Ray Tracing Engine
 _C++_
 
