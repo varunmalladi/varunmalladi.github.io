@@ -9,16 +9,11 @@ author_profile: true
 Notes
 ======
 One of the passes I do when studying math is typing up notes. It was my intention for these to 
-be highly self-referential and something I could add to over time. 
-* Banach spaces (16 pages) ([pdf](/files/banach_spaces_notes.pdf))
-* C*-algebras (23 pages) ([pdf](/files/cstar_algebras_notes.pdf))
-* measure theory (21 pages) ([pdf](/files/measure_theory_notes.pdf))
-* commutative algebra (23 pages) ([pdf](/files/commutative_algebra_notes.pdf))
-* algebraic geometry (24 pages) ([pdf](/files/algebraic_geometry_notes.pdf))
+be highly self-referential and something I could add to over time. You can find some of my notes (along with their LaTeX source code and styles) [here](https://github.com/treemcgee42/math-notes).
 
 Papers
 ======
-* _Bounded Adjointable Operators on Dense Subspaces of Separable Hilbert Spaces_, Undergraduate Senior Thesis, ongoing ([pdf](/files/senior_thesis.pdf))
+* _Bounded Adjointable Operators on Dense Subspaces of Separable Hilbert Spaces_, Undergraduate Senior Thesis ([pdf](/files/senior_thesis.pdf))
 * _(co)Ends and Day Convolution_, Dartmouth Undergraduate Journal of Science, Spring 2021 ([pdf](/files/dujs_dayconv.pdf))
   
 Other

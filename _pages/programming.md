@@ -18,6 +18,7 @@ I implemented the bilateral grid data structure utilizing compute shaders, which
 I applied the bilateral grid to a couple applications, such as bilateral filtering.
 
 [GitHub](https://github.com/treemcgee42/bilateral-grid)
+
 [Paper](/files/cs73_final.pdf)
 
 # DARTS Ray Tracing Engine
